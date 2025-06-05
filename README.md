@@ -1,4 +1,4 @@
-<h1> Projeto We Care Responsivo 📱🖥️ </h1>
+<h1 style="text-align: center;" align="center"> * Projeto We Care Responsivo * 📱🖥️ </h1>
 <br>
 <br>
 
